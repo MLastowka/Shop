@@ -15,4 +15,5 @@ public class Shop1Application {
 		SpringApplication.run(Shop1Application.class, args);
 	}
 
+
 }
